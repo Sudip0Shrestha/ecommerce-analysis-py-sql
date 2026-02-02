@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+customers.csv
+order_items.csv
+orders.csv
+payments.csv
+products.csv
+sellers.csv
